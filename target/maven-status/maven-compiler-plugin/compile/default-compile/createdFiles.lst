@@ -1,0 +1,11 @@
+com\vocab\cli\CommandParser.class
+com\vocab\db\DatabaseService.class
+com\vocab\Main.class
+com\vocab\service\LemmatizerService.class
+com\vocab\service\VocabularyService$AddResult.class
+com\vocab\service\SimilarityService.class
+com\vocab\service\VocabularyService$AddResult$Added.class
+com\vocab\service\VocabularyService.class
+com\vocab\service\VocabularyService$Stats.class
+com\vocab\db\WordEntry.class
+com\vocab\service\VocabularyService$AddResult$AlreadyExists.class
